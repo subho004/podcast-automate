@@ -1,0 +1,13 @@
+fastapi>=0.95.0
+uvicorn[standard]>=0.18.0
+python-dotenv>=1.0.0
+httpx>=0.24.0
+pydantic>=1.10.0
+
+# QuickStart / voice-generation dependencies
+torch>=2.2.0
+transformers>=4.30.0
+snac
+soundfile>=0.12.1
+numpy>=1.25.0
+openai>=1.0.0

@@ -1,0 +1,51 @@
+{
+  "title": "The Cozy Knight of Neon Alley",
+  "scenes_count": 5,
+  "scenes": [
+    {
+      "id": 1,
+      "title": "Homebase by Starlight",
+      "maya_text": "On the rooftop loft, the vigilante warms a mug beneath the retro holo-lamp. It's a rare moment of quiet before the night.<sigh> She tunes her gentle gadgets, savoring the peace.",
+      "voice_description": "Warm conversational female, calm and soothing",
+      "audio_file": "outputs/8489572b/scene_01.wav",
+      "duration": 13.653333333333334
+    },
+    {
+      "id": 2,
+      "title": "Neighborhood Neon",
+      "maya_text": "The alley market is alive with laughter and the sweet aroma of stews. <sigh> But wait, I hear a child crying. There's a lost helper bot somewhere in these shadows. <curious>",
+      "voice_description": "Warm conversational female, soothing tone",
+      "audio_file": "outputs/8489572b/scene_02.wav",
+      "duration": 12.544
+    },
+    {
+      "id": 3,
+      "title": "Circuit Tea and Old Stories",
+      "maya_text": "As the warm tea steams between us, I can\u2019t help but smile. <excited> This little microdrone! It\u2019s not just a gadget anymore; it\u2019s like a friend. <chuckle> I used to dream of this kind of technology. <sigh> It feels like magic, really.",
+      "voice_description": "Warm, conversational female, middle-aged, gentle tone",
+      "audio_file": "outputs/8489572b/scene_03.wav",
+      "duration": 16.810666666666666
+    },
+    {
+      "id": 4,
+      "title": "Rescue Under the Skybridge",
+      "maya_text": "Look at me, little one. You're safe now. <soft> Just breathe. <sigh> I\u2019ll get you out of here. <whisper> Those sentinels won't find us. <excited>",
+      "voice_description": "Warm, conversational female, soothing tone",
+      "tags_issues": [
+        "<soft>"
+      ],
+      "audio_file": "outputs/8489572b/scene_04.wav",
+      "duration": 10.837333333333333
+    },
+    {
+      "id": 5,
+      "title": "Nightcap on the Roof",
+      "maya_text": "Under the soft glow of the lamp, I can see the little robot starting to come alive. <excited> It feels like a tiny miracle, doesn't it? <chuckle> I think I\u2019ll keep you as my companion, shining bright beneath the stars. <sigh>",
+      "voice_description": "Warm conversational female, soft tone, calm pacing",
+      "audio_file": "outputs/8489572b/scene_05.wav",
+      "duration": 15.36
+    }
+  ],
+  "id": "8489572b",
+  "total_audio": "outputs/8489572b/episode.wav"
+}

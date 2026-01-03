@@ -1,0 +1,48 @@
+{
+  "title": "Midnight Tea on Neo\u2011Gotham Spire",
+  "scenes_count": 5,
+  "scenes": [
+    {
+      "id": 1,
+      "title": "Lanterns Over Neo\u2011Gotham",
+      "maya_text": "The gentle rain kisses the neon lights, <sigh> creating a shimmering dance across the streets. <whisper> Up here, on my spire, I can listen to the distant hum of drones, like whispers of the city below. <curious> There's a certain peace in the chaos of Neo-Gotham.",
+      "voice_description": "Warm conversational female, mid-30s, soothing tone",
+      "audio_file": "outputs/624d331d/scene_01.wav",
+      "duration": 18.176
+    },
+    {
+      "id": 2,
+      "title": "A Visitor for the Bat",
+      "maya_text": "A delivery bot arrives, soft whirring sounds punctuating the air. <sigh> It presents a hand-knitted scarf, small but filled with warmth. A note attached reads, 'Someone cares.' <giggle> It's a gentle reminder amidst the city's steel heartbeat.",
+      "voice_description": "Warm conversational female, soothing tone",
+      "audio_file": "outputs/624d331d/scene_02.wav",
+      "duration": 18.090666666666667
+    },
+    {
+      "id": 3,
+      "title": "Circuit Alley",
+      "maya_text": "Hey there! Looks like you've got quite the project on your hands. <chuckle> Let me give you a hand with that circuit. <excited> This lamp will light up the whole alley! <sigh> Just a quick swap, and voil\u00e0! <laugh> You're back in business.",
+      "voice_description": "Warm conversational female, mid-30s, friendly tone",
+      "audio_file": "outputs/624d331d/scene_03.wav",
+      "duration": 17.834666666666667
+    },
+    {
+      "id": 4,
+      "title": "The Quiet Workshop",
+      "maya_text": "Here I am, back in my little sanctuary. <sigh> Just me and my loyal robotic companion. <giggle> Patching up this cracked HUD feels oddly satisfying. <chuckle> The tools clink gently, creating a rhythm of comfort in the silence.",
+      "voice_description": "Warm conversational female, mid-30s, soothing tone",
+      "audio_file": "outputs/624d331d/scene_04.wav",
+      "duration": 19.456
+    },
+    {
+      "id": 5,
+      "title": "Dawn on the Spire",
+      "maya_text": "The sun rises, painting the city in golden hues. <sigh> Batman pulls the scarf tight around his cloak, feeling a sense of calm wash over him. Another peaceful morning in Gotham, where hope flickers like the dawn light.",
+      "voice_description": "Warm conversational female, soothing tone",
+      "audio_file": "outputs/624d331d/scene_05.wav",
+      "duration": 18.005333333333333
+    }
+  ],
+  "id": "624d331d",
+  "total_audio": "outputs/624d331d/episode.wav"
+}
