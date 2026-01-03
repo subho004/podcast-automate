@@ -8,10 +8,14 @@ Listen to a generated demo episode (relative path). If you upload this repositor
 
 <audio controls>
   <source src="outputs/624d331d/episode.wav" type="audio/wav">
-  Your browser does not support the audio element. You can also download the file from [outputs/624d331d/episode.wav](outputs/624d331d/episode.wav).
+  Your browser does not support the audio element.
 </audio>
 
-Prompt used to create this demo: "A cozy sci-fi short about an AI barista"
+**Prompt used to generate this demo:**  
+*A cozy sci-fi short about an AI barista*
+
+🔗 **Download the audio:** [episode.wav](outputs/624d331d/episode.wav)
+
 
 ## Overview
 
